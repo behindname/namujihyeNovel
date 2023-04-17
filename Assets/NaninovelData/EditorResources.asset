@@ -215,6 +215,3 @@ MonoBehaviour:
     - name: DiamondSutra_kr
       pathPrefix: Scripts
       guid: 2e94f3b6060494d1cbe8fc67e6e0c086
-    - name: EuclidElements
-      pathPrefix: Scripts
-      guid: 6089cda3c6bb5436d9158314cd8292e8
