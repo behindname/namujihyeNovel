@@ -212,12 +212,12 @@ MonoBehaviour:
       guid: e9b69c8b0575a4afcb9a2ffe1ed9d390
   - Id: Scripts
     Resources:
-    - name: DiamondSutra_hyunjisa
-      pathPrefix: Scripts
-      guid: 4c50848867af84794904d0f91acd77d2
     - name: DiamondSutra_kr
       pathPrefix: Scripts
       guid: 2e94f3b6060494d1cbe8fc67e6e0c086
+    - name: DiamondSutra_hyunjisa
+      pathPrefix: Scripts
+      guid: 4c50848867af84794904d0f91acd77d2
     - name: EuclidElements
       pathPrefix: Scripts
       guid: 6089cda3c6bb5436d9158314cd8292e8
