@@ -455,7 +455,7 @@ MonoBehaviour:
       guid: b4e33a301f2bf4cc5b59dfb3f95bf61c
     - name: diamond_16_4
       pathPrefix: Audio
-      guid: 
+      guid: 4955b8430a04a423da98ac5b885bfbed
     - name: diamond_17_1
       pathPrefix: Audio
       guid: 34ff78915c7fb4e3cb21844a37f04e47
@@ -700,6 +700,3 @@ MonoBehaviour:
     - name: DiamondSutra_kr
       pathPrefix: Scripts
       guid: 2e94f3b6060494d1cbe8fc67e6e0c086
-    - name: DiamondSutra_hyunjisa
-      pathPrefix: Scripts
-      guid: 4c50848867af84794904d0f91acd77d2
