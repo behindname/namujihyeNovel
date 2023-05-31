@@ -205,6 +205,513 @@ MonoBehaviour:
     - name: Meditation
       pathPrefix: Audio
       guid: 06dbcf6c4aa2b451f96386c88384a5e2
+    - name: diamond_1_2
+      pathPrefix: Audio
+      guid: b80d2ad23bd7145a6af6da888dd54a5e
+    - name: diamond_1_3
+      pathPrefix: Audio
+      guid: fca30583230734a2a86e608422522fac
+    - name: diamond_2_1
+      pathPrefix: Audio
+      guid: 196c92f46ead0463ab5fe9939331b884
+    - name: diamond_2_2
+      pathPrefix: Audio
+      guid: 371086f851b9b4d2a9e56aacb74ff2bb
+    - name: diamond_2_3
+      pathPrefix: Audio
+      guid: 6c3b85a082fc241aab4230bc7efcf594
+    - name: diamond_2_4
+      pathPrefix: Audio
+      guid: 3fd183bee8d094e89900f525277ae96b
+    - name: diamond_2_5
+      pathPrefix: Audio
+      guid: 490de85f65fd74d30820f5e22303e559
+    - name: diamond_3_1
+      pathPrefix: Audio
+      guid: e6fd4925078be47c69741392f80b69ec
+    - name: diamond_3_2
+      pathPrefix: Audio
+      guid: 67d0c0d388c184a6e89ec55f2c17d627
+    - name: diamond_3_3
+      pathPrefix: Audio
+      guid: 841c48e205c6a4813b4bf9a9c6c2f8c0
+    - name: diamond_4_1
+      pathPrefix: Audio
+      guid: a13e888093fbc4eb7b806892df17b366
+    - name: diamond_4_2
+      pathPrefix: Audio
+      guid: 2e4ae62bdb4f74f6683feac5a8a4d098
+    - name: diamond_4_3
+      pathPrefix: Audio
+      guid: a43098852e6ca48ae9b2a3cb7f948c22
+    - name: diamond_4_4
+      pathPrefix: Audio
+      guid: f83c26587adc74f9383ad445cb2e6ed2
+    - name: diamond_4_5
+      pathPrefix: Audio
+      guid: 21cf4e4808da4461c8c64ed0f1982fee
+    - name: diamond_4_6
+      pathPrefix: Audio
+      guid: e33db223f65764136a8b24d1a5b9bb07
+    - name: diamond_4_7
+      pathPrefix: Audio
+      guid: 67d95b6cf96dd4aa2bb1ff4ee13b93b1
+    - name: diamond_5_1
+      pathPrefix: Audio
+      guid: 8cdd4821c86bd434992ea9ccf7f3cf9d
+    - name: diamond_5_2
+      pathPrefix: Audio
+      guid: d59a2cc42a99548e6a665264441e7b1e
+    - name: diamond_5_3
+      pathPrefix: Audio
+      guid: 2b530867332dc47cf805d2540e423b59
+    - name: diamond_5_4
+      pathPrefix: Audio
+      guid: 042d571abfada44489561f66a5b21cdf
+    - name: diamond_6_1
+      pathPrefix: Audio
+      guid: e828428ba6d014e8eaf0b3ec0c4aceda
+    - name: diamond_6_2
+      pathPrefix: Audio
+      guid: a386182f87ffb49a4818f6d3ba47f4b6
+    - name: diamond_6_3
+      pathPrefix: Audio
+      guid: a06c3b6d69a6b49598a2205a6987683a
+    - name: diamond_6_4
+      pathPrefix: Audio
+      guid: 46fae5a92b0a044b1ae55c8ca03061d1
+    - name: diamond_6_5
+      pathPrefix: Audio
+      guid: 4327354f6cbd149e890dfe675543fe8c
+    - name: diamond_7_1
+      pathPrefix: Audio
+      guid: 1cbe6cc917901469d9af1fca08aa4f69
+    - name: diamond_7_2
+      pathPrefix: Audio
+      guid: 171a57de2bb704f65b2069bbb1d9906c
+    - name: diamond_7_3
+      pathPrefix: Audio
+      guid: 5a202cb5d07fc42f2b9997ed17a7a8ba
+    - name: diamond_8_1
+      pathPrefix: Audio
+      guid: 75c4e6dbf1eed4f389536eaf43bee139
+    - name: diamond_8_2
+      pathPrefix: Audio
+      guid: ddadc7960587149779fca1b7e9989457
+    - name: diamond_8_3
+      pathPrefix: Audio
+      guid: f3189a638e7174221ba75433301531d3
+    - name: diamond_8_4
+      pathPrefix: Audio
+      guid: 191963abc25fd459395cdf31d66ad3b9
+    - name: diamond_9_1
+      pathPrefix: Audio
+      guid: b267097eac7ba424186184012371670b
+    - name: diamond_9_2
+      pathPrefix: Audio
+      guid: b22cd8fbedc154ec8985de01b1a016a8
+    - name: diamond_9_3
+      pathPrefix: Audio
+      guid: 2a7501f636ee54f4b94678446f6012f4
+    - name: diamond_9_4
+      pathPrefix: Audio
+      guid: 86c4e48a232cc4a959f32f6955d58f0f
+    - name: diamond_9_5
+      pathPrefix: Audio
+      guid: 5f0a5fa0444a6476293bb32493fa77a6
+    - name: diamond_9_6
+      pathPrefix: Audio
+      guid: d21d98fbf0a194ce5a674e038408f419
+    - name: diamond_9_7
+      pathPrefix: Audio
+      guid: 4caa339129961433b8fe6c8803dcece9
+    - name: diamond_9_8
+      pathPrefix: Audio
+      guid: 2a66890c83b414305bb3544bba4a9f23
+    - name: diamond_9_9
+      pathPrefix: Audio
+      guid: 8316e6b4b3b1a4553893d09473915231
+    - name: diamond_9_10
+      pathPrefix: Audio
+      guid: 416982e9103734b59960116753c0b835
+    - name: diamond_10_1
+      pathPrefix: Audio
+      guid: 837d57922a89b42968727407a530c9ed
+    - name: diamond_10_2
+      pathPrefix: Audio
+      guid: 3f1fe0f9fc6dd41b997fa14b38943b28
+    - name: diamond_10_3
+      pathPrefix: Audio
+      guid: 94645ae8aace0426f83352b7f5bed4d2
+    - name: diamond_10_4
+      pathPrefix: Audio
+      guid: 00d4508aa20514e12aca7eabb2823d2d
+    - name: diamond_10_5
+      pathPrefix: Audio
+      guid: dccb3e14d4682461db1f9bf7c5e3f3e9
+    - name: diamond_10_6
+      pathPrefix: Audio
+      guid: 4468d860187a549adb657f6ba26c2fc7
+    - name: diamond_10_7
+      pathPrefix: Audio
+      guid: fd1ecdf0b007348ce94f0ae46b65de15
+    - name: diamond_10_8
+      pathPrefix: Audio
+      guid: fdbec69de0ace433a983cb44ae16cdc5
+    - name: diamond_11_1
+      pathPrefix: Audio
+      guid: f24b21976c98b49f8b98dae55950ee16
+    - name: diamond_11_2
+      pathPrefix: Audio
+      guid: aa65fee4736e9427ab34c1009c7a637e
+    - name: diamond_11_3
+      pathPrefix: Audio
+      guid: 2f682a54781524d92a5ae73d6f4106a6
+    - name: diamond_11_4
+      pathPrefix: Audio
+      guid: 0b52deff4f1cf4e98b5fbf30676bc2ce
+    - name: diamond_11_5
+      pathPrefix: Audio
+      guid: c053c6e1b367440baaa8714d3b93190d
+    - name: diamond_11_6
+      pathPrefix: Audio
+      guid: 3e27799e377a64e4dbe029f441b07dbc
+    - name: diamond_12_1
+      pathPrefix: Audio
+      guid: a70a0d11db626493ebf25aa9a4fd83a8
+    - name: diamond_12_2
+      pathPrefix: Audio
+      guid: e47accb9def54473eb07eca4433d252c
+    - name: diamond_13_1
+      pathPrefix: Audio
+      guid: 3ecf7bf292c4643028e12301ed1e8739
+    - name: diamond_13_2
+      pathPrefix: Audio
+      guid: 443abf33e32d14901b6415b5aaee8cdb
+    - name: diamond_13_3
+      pathPrefix: Audio
+      guid: e9889e947b2244f729b56a589d2d8ef6
+    - name: diamond_13_4
+      pathPrefix: Audio
+      guid: dc1b33f5040bb42cb9e38b110e27f3f6
+    - name: diamond_13_5
+      pathPrefix: Audio
+      guid: 2b7b4ae4f38f64c8e935db8d03db35d9
+    - name: diamond_13_6
+      pathPrefix: Audio
+      guid: 64ba18f24caf74a6dad772c0c437757c
+    - name: diamond_13_7
+      pathPrefix: Audio
+      guid: 1b04e59b90f164eb4bd0171a7de3a3a0
+    - name: diamond_13_8
+      pathPrefix: Audio
+      guid: a021efce96d914bdfb91ca1403179292
+    - name: diamond_13_9
+      pathPrefix: Audio
+      guid: e0347c16562f3458f97adf48e9a51277
+    - name: diamond_13_10
+      pathPrefix: Audio
+      guid: 41a08b749259148c398892d4a013e0ca
+    - name: diamond_13_11
+      pathPrefix: Audio
+      guid: 95b9028e751ff4f46885707174a19ba0
+    - name: diamond_14_1
+      pathPrefix: Audio
+      guid: a9a4ebb6ef0bc4a238568ba5834f1246
+    - name: diamond_14_2
+      pathPrefix: Audio
+      guid: 01101c8c665834aafb4994d2360f947f
+    - name: diamond_14_3
+      pathPrefix: Audio
+      guid: df40e5ee8f920436c99a96a2ad20e472
+    - name: diamond_14_4
+      pathPrefix: Audio
+      guid: b974ef42a447b4771a004a209875ee6e
+    - name: diamond_14_5
+      pathPrefix: Audio
+      guid: c42a2fd70e19446a5adcbf8e25b42c6d
+    - name: diamond_14_6
+      pathPrefix: Audio
+      guid: bc8374d7aec2548d9b6a6c4560cd7730
+    - name: diamond_14_7
+      pathPrefix: Audio
+      guid: f30625e92f4b74fe29d82b807bf94bb1
+    - name: diamond_14_8
+      pathPrefix: Audio
+      guid: 8d4b24316b95f44409f0d6254b35a535
+    - name: diamond_14_9
+      pathPrefix: Audio
+      guid: 6ae2b2faeea914395a92225e00c4c1f4
+    - name: diamond_14_10
+      pathPrefix: Audio
+      guid: f690ddb019fbc4232a480f3de5de3fa0
+    - name: diamond_14_11
+      pathPrefix: Audio
+      guid: 0913022a9cfb44e34a68fa5d7c80d0c7
+    - name: diamond_15_1
+      pathPrefix: Audio
+      guid: 9fa5dbc863e5d4aadbf10138143a7084
+    - name: diamond_15_2
+      pathPrefix: Audio
+      guid: ec7d513ed689242ba8a958279074f2ee
+    - name: diamond_15_3
+      pathPrefix: Audio
+      guid: 014b31255d56c41df9f23b2db17ae04b
+    - name: diamond_15_4
+      pathPrefix: Audio
+      guid: 354cd22806aa14b9c881b6947f430ec6
+    - name: diamond_15_5
+      pathPrefix: Audio
+      guid: 7255bdae09d5741618ab33f9ab32a322
+    - name: diamond_16_1
+      pathPrefix: Audio
+      guid: 3f8df7bd282014ac19c260e59856fee5
+    - name: diamond_16_2
+      pathPrefix: Audio
+      guid: adb3b653cc5134793929725336f20a0f
+    - name: diamond_16_3
+      pathPrefix: Audio
+      guid: b4e33a301f2bf4cc5b59dfb3f95bf61c
+    - name: diamond_16_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_1
+      pathPrefix: Audio
+      guid: 34ff78915c7fb4e3cb21844a37f04e47
+    - name: diamond_17_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_5
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_6
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_7
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_8
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_9
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_10
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_11
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_17_12
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_5
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_6
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_7
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_8
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_9
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_10
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_11
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_12
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_13
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_14
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_15
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_18_16
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_19_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_19_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_19_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_19_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_20_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_20_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_20_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_20_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_20_5
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_21_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_21_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_21_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_21_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_22_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_22_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_22_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_23_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_23_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_24_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_24_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_25_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_25_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_26_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_26_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_26_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_26_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_26_5
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_26_6
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_27_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_27_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_27_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_28_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_28_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_28_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_28_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_29_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_29_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_30_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_30_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_30_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_30_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_30_5
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_31_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_31_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_31_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_31_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_32_1
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_32_2
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_32_3
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_32_4
+      pathPrefix: Audio
+      guid: 
+    - name: diamond_32_5
+      pathPrefix: Audio
+      guid: 
   - Id: Movies
     Resources:
     - name: EuclidIntro
