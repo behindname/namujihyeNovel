@@ -1,6 +1,6 @@
-@back BuddhaFlower
+@back BuddhaPreaching
 @printer Fullscreen
-@bgm Meditation
+@bgm meditation_bowls
 @stopSfx
 @sfx diamond_1_2
 제 1 분. 法會因由分 / 법회인유분
@@ -30,6 +30,7 @@ Shakyamuni: 부처님께서 말씀하셨다.“좋은 말이다. 참으로 좋�
 Subhuti: “네, 세존이시여, 즐겁게 듣기를 원합니다.”
 @resetText
 @hideChars
+@back BuddhaFlower
 @stopSfx
 @sfx diamond_3_1
 제 3 분. 大乘正宗分 / 대승정종분
@@ -43,6 +44,7 @@ Shakyamuni: 부처님께서 수보리에게 말씀하셨다.“보살마하살�
 Shakyamuni: 이렇게 한량없고 끝없는 중생을 제도하되 실제로는 한 중생도 제도를 받은 이가 없느니라. 무슨 까닭이겠느냐？ 수보리야, 만일 어떤 보살이 아상(我相)ㆍ인상(人相)ㆍ중생상(衆生相)ㆍ수자상(壽者相)이 있으면 보살이 아니기 때문이니라.”
 @resetText 
 @hideChars
+@back TempleHaedong
 @stopSfx
 @sfx diamond_4_1
 제 4 분. 妙行無住分 / 묘행무주분
@@ -71,6 +73,7 @@ Subhuti: “못하옵니다, 세존이시여.”
 Shakyamuni: “수보리야, 보살이 상에 머물지 않고 보시하는 공덕도 그와 같아서 생각하여 헤아릴 수 없느니라. 수보리야, 보살마하살은 이렇게 가르쳐 준 대로만 머물지니라.”
 @resetText
 @hideChars
+@back BuddhaFlower
 @stopSfx
 @sfx diamond_5_1
 제 5 분. 如理實見分 / 여리실견분
@@ -88,6 +91,7 @@ Subhuti: “못하옵니다, 세존이시여, 신상으로써 여래를 볼 수�
 Shakyamuni: 부처님께서 수보리에게 말씀하셨다.[br]凡所有相 온갖 상(相)은[br]皆是虛妄 모두가 허망하니[br]若見諸相非相 상이 상 아닌 줄 알면[br]則見如來  바로 여래를 보리라.
 @resetText
 @hideChars
+@back HyunjisaDiamondSutra
 @stopSfx
 @sfx diamond_6_1
 제 6 분. 正信希有分 / 정신희유분
@@ -137,6 +141,7 @@ Subhuti: 수보리가 대답하였다.“매우 많겠습니다, 세존이시여
 Shakyamuni: “만일 다시 어떤 사람이 이 경 가운데서 4게(偈)만이라도 받아 지니고 남에게 말하여 주면, 그 복덕은 저 7보를 보시한 복덕보다 더 수승(殊勝)하리니, 무슨 까닭이겠는가？ 수보리야, 여러 부처님들과 부처님들의 아뇩다라삼먁삼보리의 법이 모두 이 경에서 나왔기 때문이니라. 수보리야, 불법이라고 하는 것은 곧 불법이 아니니라.”
 @resetText
 @hideChars
+@back BuddhaPreaching
 @stopSfx
 @sfx diamond_9_1
 제 9 분. 一相無相分 / 일상무상분
@@ -177,6 +182,7 @@ Subhuti: 수보리가 대답하였다.“그렇지 않습니다, 세존이시여
 “세존이시여, 부처님께서 저를 일러서 무쟁삼매(無淨三昧)를 얻은 사람 중에 제일이라 하셨는데, 이는 욕심을 여읜 아라한[離欲阿羅漢]이기 때문입니다만 저는 ‘제가 욕심을 여읜 아라한이다’라고 생각지는 않습니다. 세존이시여, 제가 만일 생각하기를, ‘내가 아라한의 도를 얻었노라’ 한다면, 세존께서는 저를 아란나행(阿蘭那行)을 좋아하는 사람이라 하지 않으셨을 것입니다만, 수보리가 실로 그러지 않았으므로 수보리는 아란나행을 좋아한다고 하셨습니다.”
 @resetText
 @hideChars
+@back TempleBulguksa
 @stopSfx
 @sfx diamond_10_1
 제 10 분. 莊嚴淨土分 / 장엄정토분
@@ -234,6 +240,7 @@ Subhuti: 수보리가 대답하였다.“매우 많겠습니다, 세존이시여
 Shakyamuni: 부처님께서 수보리에게 말씀하셨다.“만일 어떤 선남자와 선여인이 이 경의 사구게(四句偈)만이라도 받아 지니고 다른 사람에게 설명해 주면 그 복덕은 앞에서 7보로 보시한 복덕보다 더 수승(殊勝)하니라.”
 @resetText
 @hideChars
+@back HyunjisaDaboTower
 @stopSfx
 @sfx diamond_12_1
 제 12 분. 尊重正敎分 / 존중정교분
@@ -245,6 +252,7 @@ Shakyamuni: “또 수보리야, 어디서나 이 경을 말하되 사구게만 
 @hideChars
 @stopSfx
 @sfx diamond_13_1
+@back HyunjisaDiamondSutra
 제 13 분. 如法受持分 / 여법수지분
 @char Subhuti
 @stopSfx
@@ -288,6 +296,7 @@ Subhuti: “아니옵니다, 세존이시여. 32상으로는 여래를 보지 �
 Shakyamuni: “수보리야, 어떤 선남자와 선여인이 항하의 모래같이 많은 목숨을 보시하였고, 또 다른 어떤 사람은 이 경에서 한 사구게만이라도 받아 지니고 다른 사람에게 말하여 주었다면, 그 복은 저 복보다 더 많으니라.”
 @resetText
 @hideChars
+@back TempleBongEunsa
 @stopSfx
 @sfx diamond_14_1
 제 14 분. 離相寂滅分 / 이상적멸분
@@ -333,6 +342,7 @@ Shakyamuni: 수보리야, 어떤 보살이 마음을 법에 머물러 보시하�
 Shakyamuni: 수보리야, 오는 세상에 선남자와 선여인들이 이 경을 받아 지니고 읽고 외우면, 여래가 부처의 지혜로써 이 사람을 다 알고 다 보나니, 모두가 한량없고 끝없는 공덕을 이루느니라.”
 @resetText
 @hideChars
+@back HyunjisaDaboTower
 @stopSfx
 @sfx diamond_15_1
 제 15 분. 持經功德分 / 지경공덕분
@@ -354,6 +364,7 @@ Shakyamuni: 만일 어떤 사람이 이 경전을 받아 지니고 읽고 외우
 Shakyamuni: 수보리야, 어디에나 이 경이 있으면 온갖 하늘 사람ㆍ세상 사람ㆍ아수라들이 공양을 올리리니, 이곳은 보기 좋은 부처님의 탑과 같으므로 모두가 공경히 예배하고 돌면서 꽃과 향으로 그곳에 흩느니라.”
 @resetText
 @hideChars
+@back TempleBulguksa
 @stopSfx
 @sfx diamond_16_1
 제 16 분. 能淨業障分 / 능정업장분
@@ -420,6 +431,7 @@ Shakyamuni: “수보리야, 보살들도 역시 그러하여 만일 말하기�
 Shakyamuni: 수보리야, 만일 보살이 말하기를, ‘내가 불국토를 장엄하리라’ 하면, 보살이라 이름하지 못할지니, 무슨 까닭이냐？여래가 말하는 불국토의 장엄은 장엄이 아니므로 장엄이라 하느니라. 수보리야, 만일 보살이 나와 법이 없음을 통달하면, 여래는 그를 참 보살이라 이름하느니라.”
 @resetText
 @hideChars
+@back BuddhaFlower
 @stopSfx
 @sfx diamond_18_1
 제 18 분. 一切同觀分 / 일체동관분
@@ -523,6 +535,7 @@ Shakyamuni: “수보리야, 네 생각에 어떠하냐？ 여래를 모두 갖�
 Subhuti: “못하옵니다, 세존이시여. 여래를 모두 갖춘 거룩한 몸매로서 볼 수 없사오니, 무슨 까닭인가 하면, 여래께서 말씀하신 모두 갖춘 거룩한 몸매는 모두 갖춘 거룩한 몸매가 아니므로 모두 갖춘 거룩한 몸매라 하기 때문이옵니다.”
 @resetText
 @hideChars
+@back TempleBongEunsa
 @stopSfx
 @sfx diamond_21_1
 제 21 분. 非說所說分 / 비설소설분
@@ -540,6 +553,7 @@ Subhuti: 그때 혜명(慧命) 수보리가 부처님께 아뢰었다.“세존�
 Shakyamuni: 부처님께서 말씀하셨다.“수보리야, 저들은 중생도 아니요, 중생 아님도 아니니, 무슨 까닭이겠는가？ 수보리야, 중생이라 한 것은, 여래가 말하기를 중생이 아니므로 중생이라 하느니라.”
 @resetText
 @hideChars
+@back HyunjisaDiamondSutra
 @stopSfx
 @sfx diamond_22_1
 제 22 분. 無法可得分 / 무법가득분
@@ -568,7 +582,7 @@ Shakyamuni: “또 수보리야, 이 법은 평등하여 높은 것도 없고 �
 @char Shakyamuni
 @stopSfx
 @sfx diamond_24_2
-Shakyamuni: “수보리야, 어떤 사람이 삼천대천세계 안에 있는 여러 수미산들처럼 그렇게 큰 7보로 보시하더라도 다른 사람이 이 『반야바라밀경』의 사구게만이라도 받아 지니고 읽고 외우고 남에게 일러 준다면 앞의 공덕으로는 백분의 일에도 미치지 못하며, 천만억분의 일에도 미치지 못하며, 나아가서는 수효나 비유로도 미칠 수 없느니라.”
+Shakyamuni: “수보리야, 어떤 사람이 삼천대천세계 안에 있는 여러 수미산들처럼 그렇게 큰 7보로 보시하더라도 다른 사람이 이 『금강반야바라밀경』의 사구게만이라도 받아 지니고 읽고 외우고 남에게 일러 준다면 앞의 공덕으로는 백분의 일에도 미치지 못하며, 천만억분의 일에도 미치지 못하며, 나아가서는 수효나 비유로도 미칠 수 없느니라.”
 @resetText
 @hideChars
 @stopSfx
@@ -580,6 +594,7 @@ Shakyamuni: “수보리야, 어떤 사람이 삼천대천세계 안에 있는 �
 Shakyamuni: “수보리야, 네 생각에 어떠하냐？ 너희들은 여래가 ‘중생을 제도하리라’고 생각한다고 여기지 말라. 수보리야, 그런 생각을 하지 말지니, 무슨 까닭이겠는가？ 진실로 어떤 중생도 여래가 제도할 것이 없느니라. 만일 어떤 중생을 여래가 제도할 것이 있다면, 이는 여래가 아상ㆍ인상ㆍ중생상ㆍ수자상이 있다는 것이니라. 수보리야, 여래가 말하기를, ‘아상이 있다’ 한 것은 곧 아상이 아니거늘, 범부(凡夫)들은 아상이 있다고 여기느니라. 수보리야, 범부라는 것도 여래는 말하기를, ‘범부가 아니라’ 하느니라.”
 @resetText
 @hideChars
+@back BuddhaFlower
 @stopSfx
 @sfx diamond_26_1
 제 26 분. 法身非相分 / 법신비상분
@@ -618,6 +633,7 @@ Shakyamuni: “수보리야, 네가 생각하기를, ‘여래는 거룩한 몸�
 Shakyamuni: 수보리야, 너는 혹시 생각하기를, ‘아뇩다라삼먁삼보리의 마음을 낸 이는 모든 법이 아주 없다[斷滅]고 말하리라’ 하느냐？ 그런 생각을 말지니, 무슨 까닭이겠는가？ 아뇩다라삼먁삼보리의 마음을 낸 이는 법에 대하여 아주 없는 것이라고 말하지 않기 때문이니라.”
 @resetText
 @hideChars
+@back HyunjisaDaboTower
 @stopSfx
 @sfx diamond_28_1
 제 28 분. 不受不貪分 / 불수불탐문
@@ -665,6 +681,7 @@ Subhuti: 세존이시여, 여래께서 말씀하신 삼천대천세계도 세계
 Shakyamuni: “수보리야, 한 덩어리란 것은 곧 말할 수 없는 것이거늘 다만 범부들이 그것을 탐내고 집착하느니라.”
 @resetText
 @hideChars
+@back HyunjisaDiamondSutra
 @stopSfx
 @sfx diamond_31_1
 제 31 분. 知見不生分 / 지견불생분
@@ -684,6 +701,7 @@ Shakyamuni: “수보리야, 아뇩다라삼먁삼보리의 마음을 낸 이는
 @hideChars
 @stopSfx
 @sfx diamond_32_1
+@back BuddhaPreaching
 제 32 분. 應化非眞分 / 응화비진분
 @char Shakyamuni
 @stopSfx
@@ -701,4 +719,7 @@ Shakyamuni: 一切有爲法  온갖 유위(有爲)의 법은[br]如夢幻泡影 
 @stopSfx
 @sfx diamond_32_5
 Shakyamuni: 부처님께서 이 경을 설하여 마치시자 장로 수보리와 여러 비구ㆍ비구니ㆍ우바새ㆍ우바이와 일체 세간의 천인(天人)ㆍ아수라가 부처님께서 설하신 법을 듣고 모두 크게 기뻐하면서 믿고 받아 받들어 행하였다.
-@stop
+@stopBgm
+@hideChars
+@hidePrinter
+@title
