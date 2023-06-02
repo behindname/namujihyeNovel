@@ -711,7 +711,7 @@ MonoBehaviour:
     - name: diamond_32_5
       pathPrefix: Audio
       guid: c23c6481e921d4a3caa27e5957843427
-    - name: Meditation_bowls
+    - name: meditation_bowls
       pathPrefix: Audio
       guid: ad04c9a9409c54939a3a08e21f7394fb
   - Id: Movies
@@ -721,3 +721,6 @@ MonoBehaviour:
     - name: DiamondSutra_kr
       pathPrefix: Scripts
       guid: 2e94f3b6060494d1cbe8fc67e6e0c086
+    - name: Title
+      pathPrefix: Scripts
+      guid: a3784d43482b64422b99475ce610d04b

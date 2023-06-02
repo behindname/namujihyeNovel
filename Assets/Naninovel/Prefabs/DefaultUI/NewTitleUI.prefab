@@ -318,7 +318,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222050668431210050
 CanvasRenderer:
@@ -375,7 +375,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   category: DefaultUI
   key: TitleMenu.NewGame
-  defaultValue: NEW GAME
+  defaultValue: "\uC0C8\uB85C \uC77D\uAE30"
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -1004,7 +1004,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222882624937425720
 CanvasRenderer:
@@ -1046,7 +1046,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uACC4\uC18D\uC77D\uAE30"
+  m_Text: "\uACC4\uC18D \uC77D\uAE30"
 --- !u!114 &393797796732479932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1061,7 +1061,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   category: DefaultUI
   key: TitleMenu.Continue
-  defaultValue: CONTINUE
+  defaultValue: "\uACC4\uC18D \uC77D\uAE30"
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -1112,7 +1112,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222453493509409336
 CanvasRenderer:
@@ -1169,7 +1169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   category: DefaultUI
   key: TitleMenu.Settings
-  defaultValue: SETTINGS
+  defaultValue: "\uC124\uC815"
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -1374,7 +1374,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222675994847916932
 CanvasRenderer:
@@ -1431,7 +1431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   category: DefaultUI
   key: TitleMenu.Exit
-  defaultValue: EXIT
+  defaultValue: "\uC885\uB8CC\uD558\uAE30"
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -1636,7 +1636,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8013368462075715455
 CanvasRenderer:
@@ -1744,7 +1744,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5673026897635381213
 CanvasRenderer:
@@ -2160,7 +2160,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 300, y: 55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8227721266696152033
 CanvasRenderer:
@@ -2202,7 +2202,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TIPS
+  m_Text: "\uB3C4\uC6C0\uB9D0"
 --- !u!114 &5082582795624707103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2217,7 +2217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   category: DefaultUI
   key: TitleMenu.Tips
-  defaultValue: TIPS
+  defaultValue: "\uB3C4\uC6C0\uB9D0"
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
