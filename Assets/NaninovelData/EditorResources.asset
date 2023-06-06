@@ -166,6 +166,9 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+    - name: CopyrightUI
+      pathPrefix: UI
+      guid: f40383c48a58c47d5973fd083191f7d1
   - Id: Characters/809f7e8c-8b5a-4d5c-86e5-5bad63fcbdad
     Resources:
     - name: Default
