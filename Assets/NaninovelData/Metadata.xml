@@ -267,6 +267,10 @@
         &lt;Type&gt;UI&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
+        &lt;Path&gt;CopyrightUI&lt;/Path&gt;
+        &lt;Type&gt;UI&lt;/Type&gt;
+      &lt;/Resource&gt;
+      &lt;Resource&gt;
         &lt;Path&gt;Default&lt;/Path&gt;
         &lt;Type&gt;Characters/Shakyamuni&lt;/Type&gt;
       &lt;/Resource&gt;
