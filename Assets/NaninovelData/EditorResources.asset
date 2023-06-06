@@ -204,9 +204,6 @@ MonoBehaviour:
       guid: bf308866d4e5647f0b510163caaedf03
   - Id: Audio
     Resources:
-    - name: Meditation
-      pathPrefix: Audio
-      guid: 06dbcf6c4aa2b451f96386c88384a5e2
     - name: diamond_1_2
       pathPrefix: Audio
       guid: b80d2ad23bd7145a6af6da888dd54a5e
